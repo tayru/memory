@@ -1,0 +1,12 @@
+.title{
+    margin-top: 50px;
+    color: var(--color-primary);
+    text-align: center;
+    font-family: Formular;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px; /* 70% */
+    text-transform: uppercase;
+    margin-bottom: 100px;
+}

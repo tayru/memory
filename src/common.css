@@ -1,0 +1,17 @@
+
+:root {
+  --color-primary: #0083FC;
+  --color-accent: #F53;
+  --color-grey: #E5E5E5;
+  --color-white: #FFFFFF;
+  --color-black: #000000;
+  --container-width: 1440px;
+  --grid-column-width: 98px;
+  --grid-gap: 20px;
+}
+
+* {
+  all: unset;
+  display: revert;
+}
+

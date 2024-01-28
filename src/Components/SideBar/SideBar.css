@@ -1,0 +1,32 @@
+.sideBar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 20px;
+    width: 150px;
+}
+
+.sideBar-title{
+    color: var(--color-primary);
+    text-align: center;
+    font-family: Formular;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 125% */
+    text-transform: uppercase;
+}
+
+.sideBar-number {
+    color: var(--color-accent);
+    font-family: Formular;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+.aside {
+    width: 190px;
+}
